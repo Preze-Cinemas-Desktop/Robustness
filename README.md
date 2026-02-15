@@ -31,20 +31,26 @@
   <a href="https://www.linkedin.com/in/vasilis-athanasiou-7036b53a4/" target="_blank">LinkedIn</a>
 </p>
 
----
+<hr/>
 
 <p align="center">
   <strong>Supervision</strong>
 </p>
 
 <p align="center">
-  Instructor: Georgios Prezerakos
+  Supervisor: Georgios Prezerakos, Professor
 </p>
+<p align="center">
+  <a href="https://ice.uniwa.gr/en/emd_person/george-prezerakos/" target="_blank">UNIWA Profile</a> ·
+  <a href="https://www.linkedin.com/in/georgenprezerakos/" target="_blank">LinkedIn</a>
+</p>
+
+</hr>
 
 ---
 
 <p align="center">
-  Athens, 2023
+  Athens, August 2023
 </p>
 
 ---
