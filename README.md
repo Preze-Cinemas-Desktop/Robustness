@@ -8,50 +8,6 @@
   DEPARTMENT OF COMPUTER ENGINEERING AND INFORMATICS
 </p>
 
----
-
-<p align="center">
-  <strong>Software Engineering</strong>
-</p>
-
-<h1 align="center">
-  Preze Cinemas Desktop - Phase 3 <br>
-  Robustness Diagrams 
-</h1>
-
-<p align="center">
-  <strong>Vasileios Evangelos Athanasiou</strong><br>
-  Student ID: 19390005
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ath21" target="_blank">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/vasilis-athanasiou-7036b53a4/" target="_blank">LinkedIn</a>
-</p>
-
-<hr/>
-
-<p align="center">
-  <strong>Supervision</strong>
-</p>
-
-<p align="center">
-  Supervisor: Georgios Prezerakos, Professor
-</p>
-<p align="center">
-  <a href="https://ice.uniwa.gr/en/emd_person/george-prezerakos/" target="_blank">UNIWA Profile</a> ·
-  <a href="https://www.linkedin.com/in/georgenprezerakos/" target="_blank">LinkedIn</a>
-</p>
-
-</hr>
-
-<p align="center">
-  Athens, July 2023
-</p>
-
----
-
-
 </p>
 
 ---
